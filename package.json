@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AninHuang/LeetCode-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AninHuang/LeetCode-JavaScript/issues"
+  },
+  "homepage": "https://github.com/AninHuang/LeetCode-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "eslint": "^7.3.1"
+  }
+}
